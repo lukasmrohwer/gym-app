@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "gym-app",
-    "slug": "gym-app",
+    "name": "frontend",
+    "slug": "frontend",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "gymapp",
+    "scheme": "frontend",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
