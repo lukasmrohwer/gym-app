@@ -3,7 +3,8 @@ import { Stack } from 'expo-router';
 export default function StackLayout() {
   return (
     <Stack>
-      <Stack.Screen name="workout" options={{ headerShown: false }} />
+      <Stack.Screen name="index" options={{ title: "Workout" }} />
+      <Stack.Screen name="new" options={{ title: "New" }} />
     </Stack>
   );
 }
